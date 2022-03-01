@@ -1,0 +1,34 @@
+segment_sources:
+  PAC11F373:
+    type: origin_type
+    relation: translation
+    language: en
+  PAAE846E2:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  21a7ecbf397e481eb97ad3f66eee8f37:
+    PAC11F373: 5968def107f049adb81e01e494c31116
+    PAAE846E2: 622b4e4eaeb14dcdb4490e61886b1ec2
+  3ea2ed95cb83486facb99621fab6e3e4:
+    PAC11F373: bb34a20643a3475aa325dde947850791
+    PAAE846E2: 222341ec592440fcb2d6405ff665a4bb
+  6125b33ea5b341a1b5bdef39c6ee5874:
+    PAC11F373: 1be73f7e8df6487d8113f5e7e3cc50ab
+    PAAE846E2: 72690d95cedd414285be1a226f593665
+  f517d8456b63445ca1c99824067d3bd7:
+    PAC11F373: 4907d70dd53946ada9465146849c2239
+    PAAE846E2: 09dfd78ec52042d7a5fcfc6f025c2bb2
+  6a64f0a21f4e4d6ab468c517927acfa6:
+    PAC11F373: faeac120c2ec4e7d87fc2f6d5844dfd9
+    PAAE846E2: 17619bf2ef4841178e0847d8cf1351be
+  066f2665fde441d2aea823be10bf7ee5:
+    PAC11F373: e945bed0967540bc83fffd06b9839acb
+    PAAE846E2: b6eb374e774946b189358cdcce4b5ba6
+  0c42db23d5404e6391445edc1b813bf9:
+    PAC11F373: f437a6aadb414db0a62ac2c328c19bb5
+    PAAE846E2: e7d1278bed884edf912bcbcbf72b0c56
+  fb0b03f4cf0d4726895ecd5342af0407:
+    PAC11F373: af7014ec54fc459c9a7cd4d3675e13c0
+    PAAE846E2: 34f7305eb12d43468ed4b137760e8ec5

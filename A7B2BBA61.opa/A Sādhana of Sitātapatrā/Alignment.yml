@@ -1,0 +1,16 @@
+segment_sources:
+  PAC11F373:
+    type: origin_type
+    relation: translation
+    language: en
+  PAAE846E2:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  3e6ce8e91da84e1a9faeaaf738233d57:
+    PAC11F373: c29155deaa61407295497ba06d26eea1
+    PAAE846E2: 97afdbf168ca44bdbbf6f7c27dfcd58e
+  6de391ddb9df4c4aa4935e48a996151e:
+    PAC11F373: 66085d43fefc472696e99847e2fe72a0
+    PAAE846E2: e23dd705870d412fa583c988f9f9022b

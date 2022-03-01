@@ -1,0 +1,25 @@
+segment_sources:
+  PAC11F373:
+    type: origin_type
+    relation: translation
+    language: en
+  PAAE846E2:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  97dbe1a129684b278d3a905115eb7277:
+    PAC11F373: 5db230dc3a16432aa1b2db68ad24dc8f
+    PAAE846E2: a8ff9e8383ec451a8ffa11284a5d11f4
+  e4eef06d4fd04ac0b4277bf693aac8cf:
+    PAC11F373: 2a46b7ce393e4237b0c625e5ab848401
+    PAAE846E2: f1e67a3e3b7e4eab8a7ba67e0511f014
+  1c40b3265f344e0ba4d4932f6137c3e3:
+    PAC11F373: 7782e9ea815741ebaaf998432750e2f2
+    PAAE846E2: 194861867e784a828eaa5607ec691728
+  aabab9dabb744e1d95baee6c2396c435:
+    PAC11F373: 64ed94cd7c174e7f9445087a31b6619e
+    PAAE846E2: 88b4f4e8fb634c988ca64572dd431824
+  72306a47ea1c49819bacaef37328c478:
+    PAC11F373: 675969d7c39a4ea7a0743bfff81c388d
+    PAAE846E2: 32b96daf875a47a78d4376099bc5e03c
